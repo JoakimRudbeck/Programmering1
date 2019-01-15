@@ -1,4 +1,4 @@
-package Kapitel5_Debugging;
+package kapitel5_Debugging;
 
 import java.util.Scanner;
 

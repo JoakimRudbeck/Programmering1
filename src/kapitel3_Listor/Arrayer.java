@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class Arrayer {
 
     public static void main(String[] args) {
-        //provBetyg();
-        //frukter();
-        //bytaPlats();
-        //antalOrdIMening();
-        //permutationer();
+        provBetyg();
+        frukter();
+        bytaPlats();
+        antalOrdIMening();
+        permutationer();
         listorIListor();
     }
 
@@ -70,14 +70,16 @@ public class Arrayer {
     private static void bytaPlats() {
         int[] lista = {3,5,7};
         System.out.println(
-                "Värdena innan = " + lista[0]
-                + ","+ lista[1] + "," + lista[2]);
+                "Värdena innan = " +
+                lista[0] + "," +
+                lista[1] + "," +
+                lista[2]);
         int temp = lista[1];
         lista[1] = lista[2];
         lista[2] = temp;
         System.out.println(
-                "Värdena efter = " + lista[0]+","
-                + lista[1]+"," + lista[2]);
+                "Värdena efter = " + lista[0]+"," +
+                lista[1]+"," + lista[2]);
     }
 
     private static void frukter() {
@@ -90,7 +92,7 @@ public class Arrayer {
         System.out.println("Första frukten är " + minFruktKorg[0]);
     }
 
-    // Skapar en två-dimensionell lista som sparar
+    // Skapar en lista-av-listor-lista som sparar
     // prov och betyg.
     private static void provBetyg() {
         String[][] provResultat = new String[3][2]; // 3 platser
@@ -100,6 +102,8 @@ public class Arrayer {
         provResultat[0] = prov1;
         provResultat[1] = prov2;
         provResultat[2] = prov3;
+        // skriver ut första elementet (0) i den sista listan (2)
         System.out.println(provResultat[2][0]);
+
     }
 }
