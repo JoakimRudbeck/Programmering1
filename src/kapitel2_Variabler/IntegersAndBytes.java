@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class IntegersAndBytes {
     private static final int MEMORY_SIZE = 100;
-
     public static void main(String[] args) {
         printMemory();
     }

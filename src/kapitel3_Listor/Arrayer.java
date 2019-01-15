@@ -104,6 +104,5 @@ public class Arrayer {
         provResultat[2] = prov3;
         // skriver ut första elementet (0) i den sista listan (2)
         System.out.println(provResultat[2][0]);
-
     }
 }

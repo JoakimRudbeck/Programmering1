@@ -9,8 +9,8 @@ public class Variabler {
         // Tilldelning = ger en deklarerad variabel ett värde.
         mittHeltal = 150234;
         mittHeltal = -23188;
-        // En variabel kan ändra
-        // värden hela tiden (om de inte är deklarerade final)
+        // En variabel kan ändras
+        // hela tiden (om de inte är deklarerade final)
         // Deklarering och tilldelning på sammma gång:
         short mittLillaHeltal = 14010;
         double minDouble = 3.14;

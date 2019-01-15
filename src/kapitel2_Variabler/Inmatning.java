@@ -5,9 +5,7 @@ public class Inmatning {
 
     public static void main(String[] args) {
         scanner();
-
         merScanner();
-
     }
 
     private static void merScanner() {
