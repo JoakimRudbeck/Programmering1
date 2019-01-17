@@ -1,0 +1,10 @@
+## Viktiga begrepp inför provet:
+###     * Kompilering, källkod, bytekod
+###     * Programstruktur programblock, package, klass, metod
+###     * 3 olika typer av fel som kan uppstå
+###     * Variabler, giltiga variabelnamn, datatyper (och dess storlek)
+###     * Deklaration, tilldelning
+###     * Inmatning (klassen Scanner)
+###     * Typomvandlingar mellan datatyper (string till int, char till int osv..)
+###     * Strängar och metoder för strängar (length(), charAt(), indexOf()...)
+###     * UNICODE (Varje tecken har ett motsv int-värde och vice versa)
