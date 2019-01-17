@@ -5,11 +5,23 @@ public class Uppgifter {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        printFExempel();
-        övning4_1();
+        //printFExempel();
+        //övning4_1();
+        övning4_4();
     }
 
-    private static void printFExempel() {
+    static void övning4_4() {
+        System.out.println("Skriv in ett tal, tack.");
+        int mittTal = scanner.nextInt();
+        int mittTalJusterat = mittTal + 500;
+        // lägger på 500 för att avrundningen ska bli rätt.
+        int mittTalDelatPåTusen = (mittTalJusterat / 1000);
+        // kom ihåg, int dividerat med int blir int, decimalerna försvinner.
+        int mittTalAvrundat = mittTalDelatPåTusen * 1000; // Lägger på tre nollor
+        System.out.printf("Talet %d avrundat blir %d", mittTal, mittTalAvrundat);
+    }
+
+    static void printFExempel() {
         float a = 3.1415926f;
         int b = 5;
         int c = 7;
