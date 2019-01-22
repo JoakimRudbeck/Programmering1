@@ -1,4 +1,4 @@
-package kapitel7_Villkorssatser;
+package kapitel07_Villkorssatser;
 
 public class Villkor {
 

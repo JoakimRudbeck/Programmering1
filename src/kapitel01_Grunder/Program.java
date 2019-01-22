@@ -1,4 +1,4 @@
-package kapitel1_Grunder;
+package kapitel01_Grunder;
 
 public class Program {
     public static void main(String[] args) {

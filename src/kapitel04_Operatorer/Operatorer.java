@@ -1,4 +1,4 @@
-package kapitel4_Operatorer;
+package kapitel04_Operatorer;
 
 import java.util.Scanner;
 

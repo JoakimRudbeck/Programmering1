@@ -1,6 +1,4 @@
-package kapitel5_Debugging;
-
-import java.util.Scanner;
+package kapitel05_Debugging;
 
 public class Debugging {
 

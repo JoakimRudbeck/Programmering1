@@ -1,4 +1,4 @@
-package kapitel2_Variabler;
+package kapitel02_Variabler;
 
 import java.util.Random;
 

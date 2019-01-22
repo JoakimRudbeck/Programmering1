@@ -1,4 +1,4 @@
-package kapitel2_Variabler;
+package kapitel02_Variabler;
 
 public class Variabler_Deklarering_Tilldelning {
     public static void main(String[] args) {

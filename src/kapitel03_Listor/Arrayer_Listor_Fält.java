@@ -1,4 +1,4 @@
-package kapitel3_Listor;
+package kapitel03_Listor;
 
 import java.util.Scanner;
 
