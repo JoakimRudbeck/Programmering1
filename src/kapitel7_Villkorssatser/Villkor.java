@@ -1,4 +1,4 @@
-package kapitel7_if_satser;
+package kapitel7_Villkorssatser;
 
 public class Villkor {
     public static void main(String[] args) {

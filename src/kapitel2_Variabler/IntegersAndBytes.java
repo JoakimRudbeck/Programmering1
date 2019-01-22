@@ -4,11 +4,13 @@ import java.util.Random;
 
 public class IntegersAndBytes {
     private static final int MEMORY_SIZE = 100;
+
     public static void main(String[] args) {
         printMemory();
     }
 
-    private static void printMemory() {
+    // En metod som visuellt skriver ut ungefär hur datorns minne är uppbyggt.
+    static void printMemory() {
         Random r = new Random();
         int adress = 1024451;
 

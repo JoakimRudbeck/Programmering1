@@ -8,24 +8,23 @@ public class Inmatning {
         merScanner();
     }
 
-    private static void merScanner() {
-        System.out.println("Vad heter du?");
-        Scanner minSkanner = new Scanner(System.in);
-        String namn = minSkanner.nextLine();
-        System.out.println("Hur gammal är du?");
-        String ålderAsString = minSkanner.nextLine();
-        int ålder = Integer.valueOf(ålderAsString);
-        System.out.println("Du är " + ålder + " år gammal.");
-    }
-
     private static void scanner() {
-        String s = "hej";
         Scanner minSkanner = new Scanner(System.in);
-        System.out.println("Skriv in ett ord, tack:");
+        System.out.println("Skriv in ett ord, tack: ");
         String indata = minSkanner.nextLine();
         System.out.println("Du skrev " + indata);
-        System.out.println("Skriv in ett tal, tack:");
+        System.out.println("Skriv in ett heltal, tack: ");
         int tal = minSkanner.nextInt();
         System.out.println("Du skrev talet " + tal);
+    }
+
+    private static void merScanner() {
+        System.out.println("Vad heter du?");
+        Scanner minSkanner = new Scanner(System.in);            // Skapar ett Scanner-objekt
+        String namn = minSkanner.nextLine();                    // Läser in en rad skriven från tangentbordet
+        System.out.println("Hur gammal är du?");
+        String ålderAsString = minSkanner.nextLine();           // Läser in en till rad från tangentbordet.
+        int ålder = Integer.valueOf(ålderAsString);             // Typomvandling från String till int med hjälpklassen Integer.
+        System.out.println("Du är " + ålder + " år gammal.");
     }
 }
