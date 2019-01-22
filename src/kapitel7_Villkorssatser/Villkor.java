@@ -1,10 +1,11 @@
 package kapitel7_Villkorssatser;
 
 public class Villkor {
+
     public static void main(String[] args) {
-        //enklaVillkor();
-        //sammanslagnaVillkor();
-        //avanceradeSammanslagdaVillkor();
+        enklaVillkor();
+        sammanslagnaVillkor();
+        avanceradeSammanslagdaVillkor();
     }
 
     static void enklaVillkor() {

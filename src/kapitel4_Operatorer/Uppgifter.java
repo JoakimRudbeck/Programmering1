@@ -5,8 +5,8 @@ public class Uppgifter {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        //printFExempel();
-        //övning4_1();
+        printFExempel();
+        övning4_1();
         övning4_4();
     }
 
@@ -22,16 +22,16 @@ public class Uppgifter {
     }
 
     static void printFExempel() {
-        float a = 3.1415926f;
+        float a = 3.1415927f;
         int b = 5;
         int c = 7;
         // "vanliga sättet":
         System.out.println("a är "+a+" och b är "+b+" och c är "+c+".");
-        // Samma sak men med print format.
+        // Samma sak men med print format:
         System.out.printf("a är %.2f och b är %d och c är %d.", a,b,c);
     }
 
-    private static void övning4_1() {
+    static void övning4_1() {
         System.out.println("Mata in antal månader");
         int totMånader = scanner.nextInt();
         int år = totMånader / 12;

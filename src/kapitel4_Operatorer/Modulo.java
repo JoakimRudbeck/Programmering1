@@ -12,9 +12,9 @@ public class Modulo {
     private static void vadÄrKlockan() {
         System.out.println("Hur mycket är klockan?");
         String klockslag = scanner.nextLine();
-        String[] klockslagUppdelat = klockslag.split(":");
-        System.out.println("Längden av min lista är " + klockslagUppdelat.length);
-        System.out.println("Timmar = " + klockslagUppdelat[0]);
-        System.out.println("Minuter = " + klockslagUppdelat[1]);
+        String[] listaUppdeladPåTimmeOchMinut = klockslag.split(":");
+        System.out.println("Längden av min lista är " + listaUppdeladPåTimmeOchMinut.length);
+        System.out.println("Timmar = " + listaUppdeladPåTimmeOchMinut[0]);
+        System.out.println("Minuter = " + listaUppdeladPåTimmeOchMinut[1]);
     }
 }
