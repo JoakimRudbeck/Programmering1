@@ -1,23 +1,26 @@
 package kapitel07_Villkorssatser;
 
+import java.util.Scanner;
+
 public class IfSatser {
 
     public static void main(String[] args) {
-        enkelIfElseSats();
-        enkelIfSats();
-        ifElseIfSats();
+        //ifSats();
+        //ifElseSats();
+        //ifElseIfElseSats();
+        //equalsExempel();
     }
 
 
-    static void enkelIfSats() {
-        int a = 3;
+    static void ifSats() {
+        int a = 13;
         if(a < 10){
             System.out.printf("%d är mindre än 10.",a);
         }
         System.out.println("Denna kod körs oavsett, den ligger efter if-satsen.");
     }
 
-    static void enkelIfElseSats() {
+    static void ifElseSats() {
         int a = 5;
         int b = 3;
         if(a == b){
@@ -30,7 +33,7 @@ public class IfSatser {
         System.out.println("Denna körs alltid.");
     }
 
-    static void ifElseIfSats() {
+    static void ifElseIfElseSats() {
         int ålder = 15;
         // Koden kommer bara gå in i en av dessa kodblock.
         // Om ålder är 15 så kommer den gå in i första blocket men inte nästa trots att 15 < 65.
@@ -47,5 +50,14 @@ public class IfSatser {
         // Här är hela if-satsen slut. All kod nedan kommer alltid att köras
         // förutsatt att vi inte får ett exekveringsfel innan :)
     }
-
+    private static void equalsExempel() {
+        Scanner scanner = new Scanner(System.in);
+        String hej = scanner.nextLine();
+        if(hej.equals("hej")){
+            System.out.println("Inuti if-satsen.");
+        }
+        else{
+            System.out.println("Gick inte in i if-satsen");
+        }
+    }
 }
