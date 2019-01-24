@@ -1,4 +1,4 @@
-package kapitel7_if_satser;
+package kapitel07_Villkorssatser;
 
 import java.util.Scanner;
 
@@ -24,10 +24,10 @@ public class IfSatser {
         int a = 5;
         int b = 3;
         if(a == b){
-            System.out.printf("%d är lika med %d",a,b);
+            System.out.printf("%d är lika med %d. ",a,b);
         }
         else{
-            System.out.printf("%d är inte lika med %d",a,b);
+            System.out.printf("%d är inte lika med %d. ",a,b);
         }
         // Nu är hela if-else-satsen slut. All kod nedan kommer köras.
         System.out.println("Denna körs alltid.");

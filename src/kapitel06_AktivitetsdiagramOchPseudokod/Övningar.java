@@ -1,4 +1,4 @@
-package kapitel6_AktivitetsdiagramOchPseudokod;
+package kapitel06_AktivitetsdiagramOchPseudokod;
 
 import java.util.Scanner;
 

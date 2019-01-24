@@ -1,9 +1,10 @@
-package kapitel7_if_satser;
+package kapitel07_Villkorssatser;
 
 public class Villkor {
+
     public static void main(String[] args) {
-        // enklaVillkor();
-        // sammanslagnaVillkor();
+        enklaVillkor();
+        sammanslagnaVillkor();
         avanceradeSammanslagdaVillkor();
     }
 
@@ -32,6 +33,6 @@ public class Villkor {
     }
 
     static void avanceradeSammanslagdaVillkor() {
-        System.out.println(((8%3) < 5 && 4/3 > 1) || 6 <1+2+3) ;
+        System.out.println(((8%3) < 5 && 4/3 > 1) || 6 < 1+2+3) ;
     }
 }

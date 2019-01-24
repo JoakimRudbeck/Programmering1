@@ -1,6 +1,6 @@
-package kapitel2_Variabler;
+package kapitel02_Variabler;
 
-public class Variabler {
+public class Variabler_Deklarering_Tilldelning {
     public static void main(String[] args) {
         // Deklarering:
         // Skapar variabeln och reserverar så mycket plats
@@ -13,8 +13,10 @@ public class Variabler {
         // hela tiden (om de inte är deklarerade final)
         // Deklarering och tilldelning på sammma gång:
         short mittLillaHeltal = 14010;
-        double minDouble = 3.14;
-        float minFloat = 3.14f;  // Måste lägga till ett f.
+        long mittStoraHeltal = 999999999;
+        byte minByte = 120;     // Byte består av 8 bitar. Möjliga värden på byte är -128 till +127.
+        double minDouble = 3.14; // Decimaltal tolkas som double by default
+        float minFloat = 3.14f;  // Måste lägga till ett f för att skilja på double 3.14 och float 3.14.
         char minChar = '!';
         char minAndraChar = 'J';
         boolean minBool = 20 == 13;

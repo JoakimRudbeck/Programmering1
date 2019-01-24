@@ -1,29 +1,14 @@
-package kapitel5_Debugging;
-
-import java.util.Scanner;
+package kapitel05_Debugging;
 
 public class Debugging {
 
     public static void main(String[] args) {
-        debuggingExempel();
-        //scanner();
-    }
-
-    static void deriveraPolynom(){
-        Scanner scanner = new Scanner(System.in);
-
+        debuggingExempel1();
+        debuggingExempel2();
     }
 
 
-
-    static void scanner(){
-        Scanner scanner = new Scanner(System.in);
-        String s = scanner.nextLine();
-        System.out.println(s);
-    }
-
-
-    static void debuggingExempel(){
+    static void debuggingExempel1(){
         String[] minLista;
         System.out.println("Välkommen till mig!");
         minLista = new String[4];
@@ -38,26 +23,7 @@ public class Debugging {
         System.out.println(minLista[3]);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    private static void debugging0() {
+    static void debuggingExempel2() {
         int a = 12;
         int b = 45;
         int c = 13;
@@ -68,6 +34,5 @@ public class Debugging {
         System.out.printf("b = %d",b);
         System.out.printf("c = %d",c);
     }
-
 
 }
