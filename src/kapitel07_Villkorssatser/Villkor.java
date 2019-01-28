@@ -10,6 +10,7 @@ public class Villkor {
 
     static void enklaVillkor() {
         // Det finns 6 olika jämförelser att göra
+
         System.out.println(3 == 7);     // lika med
         System.out.println(3 < 7);      // mindre än
         System.out.println(3 <= 7);     // mindre än eller lika med
