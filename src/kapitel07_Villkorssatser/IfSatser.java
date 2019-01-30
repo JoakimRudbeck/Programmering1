@@ -37,11 +37,11 @@ public class IfSatser {
         int ålder = 15;
         // Koden kommer bara gå in i en av dessa kodblock.
         // Om ålder är 15 så kommer den gå in i första blocket men inte nästa trots att 15 < 65.
-        if(ålder < 18){
-            System.out.println("Du är ett barn.");
-        }
-        else if(ålder < 65){
+        if(ålder < 65){
             System.out.println("Du är vuxen.");
+        }
+        else if(ålder < 18){
+            System.out.println("Du är ett barn.");
         }
         else{
             System.out.println("Du är i pensionsålder.");
