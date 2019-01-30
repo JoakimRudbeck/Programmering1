@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class IfSatser {
 
     public static void main(String[] args) {
-        //ifSats();
-        //ifElseSats();
-        //ifElseIfElseSats();
-        //equalsExempel();
+        ifSats();
+        ifElseSats();
+        ifElseIfElseSats();
+        equalsExempel();
     }
 
 
