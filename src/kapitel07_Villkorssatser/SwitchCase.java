@@ -1,4 +1,4 @@
-package kapitel7_if_satser;
+package kapitel07_Villkorssatser;
 
 import java.util.Scanner;
 
@@ -12,13 +12,13 @@ public class SwitchCase {
     private static void switchCaseExempel() {
         System.out.println("Hur mår du idag?");
         String humör = scanner.nextLine();
+
         switch(humör){
             case "Bra":
                 System.out.println(":)");
                 break;
             case "Super":
                 System.out.println(":D");
-                break;
             case "Dåligt":
                 System.out.println(":(");
                 break;

@@ -53,7 +53,7 @@ public class IfSatser {
     private static void equalsExempel() {
         Scanner scanner = new Scanner(System.in);
         String hej = scanner.nextLine();
-        if(hej.equals("hej")){
+        if(hej.equalsIgnoreCase("hej")){
             System.out.println("Inuti if-satsen.");
         }
         else{

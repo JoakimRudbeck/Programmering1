@@ -7,8 +7,20 @@ public class Villkorsoperatorn {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        villkorsOperatornExempel();
+        //villkorsoperatorn();
+        //villkorsOperatornExempel();
     }
+
+    private static void villkorsoperatorn() {
+        int tal = scanner.nextInt();
+        boolean jämnt = tal % 2 == 0;
+        String uddaEllerJämnt = jämnt ? "jämnt" : "udda";
+        System.out.println(tal + " är " + uddaEllerJämnt);
+
+        String värde = tal > 10 ? "värdet är större än 10" : "värdet är mindre än 10";
+        System.out.println(värde);
+    }
+
 
     private static void villkorsOperatornExempel() {
         // Fråga om ett tal.
