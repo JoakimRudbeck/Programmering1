@@ -21,6 +21,10 @@ public class IfSatser {
         System.out.println(maxValue+3);
 
 
+        ifSats();
+        ifElseSats();
+        ifElseIfElseSats();
+        equalsExempel();
     }
 
     private static void notContainsExempel() {
