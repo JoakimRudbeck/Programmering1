@@ -3,14 +3,36 @@ package kapitel07_Villkorssatser;
 import java.util.Scanner;
 
 public class IfSatser {
+    static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         //ifSats();
         //ifElseSats();
         //ifElseIfElseSats();
-        equalsExempel();
+        //equalsExempel();
+        //notContainsExempel();
+
+        long maxValue = Long.MAX_VALUE;
+        System.out.println(maxValue-3);
+        System.out.println(maxValue-2);
+        System.out.println(maxValue-1);
+        System.out.println(maxValue+1);
+        System.out.println(maxValue+2);
+        System.out.println(maxValue+3);
+
+
     }
 
+    private static void notContainsExempel() {
+        System.out.println("Skriv in ett ord, tack:");
+        String input = scanner.nextLine();
+        if(!input.contains("a")){
+            System.out.printf("%s innehåller inte bokstaven a.", input);
+        }
+        else {
+            System.out.printf("%s innehåller bokstaven a.", input);
+        }
+    }
 
     static void ifSats() {
         int a = 13;
