@@ -14,34 +14,7 @@ public class ForLoop {
         //loopaIgenomEnLista();
         //fyllaEnListaMedVärden();
         //nestladForLoopExempel();
-
-
-
-
-
-
-
-
-
-
-/*
-        // Besöker varje våning v:
-        for(int v = 1; v <= 6; v++){
-            // Besöker varje affär a
-            for(int a = 1; a <= 4; a++){
-                System.out.println("Är på våning " + v + ", vid affär " + a);
-            }
-
-
-
-
-        }
-*/
-
-
-
-
-
+        //besökaKöpCentret();
 
     }
 
@@ -72,8 +45,6 @@ public class ForLoop {
         }
         System.out.println("Nu är vi utanför loopen och denna rad körs nu :)");
     }
-
-
 
     private static void loopaIgenomEnLista() {
         String[] lista = {"mango", "äpple", "banan"};
@@ -107,9 +78,6 @@ public class ForLoop {
         for(int i = 0; i < listaAvSträngar.length; i++){  // i kommer även i denna loop anta värdena 0,1,2,3,4
             System.out.println("Ordet på index " + i + " i listan är: " + listaAvSträngar[i]);
         }
-
-
-
     }
 
     private static void nestladForLoopExempel() {
@@ -121,9 +89,17 @@ public class ForLoop {
             System.out.println();
         }
 
-
     }
 
+    private static void besökaKöpCentret() {
+        // Besöker varje våning v:
+        for(int v = 1; v <= 6; v++){
+            // Besöker varje affär a
+            for(int a = 1; a <= 4; a++){
+                System.out.println("Är på våning " + v + ", vid affär " + a);
+            }
+        }
+    }
 
 
 }
