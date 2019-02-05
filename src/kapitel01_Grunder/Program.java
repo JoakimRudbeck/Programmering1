@@ -2,7 +2,7 @@ package kapitel01_Grunder;
 
 public class Program {
     public static void main(String[] args) {
-        // Alla program starta i main-metoden.
+        // Alla program startar i main-metoden.
         // Härifrån kan anrop göras till andra kodblock, så kallade metoder.
 
         // Metodanrop till metoden uppgiftABC().

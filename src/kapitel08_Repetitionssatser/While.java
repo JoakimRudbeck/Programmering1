@@ -3,27 +3,18 @@ package kapitel08_Repetitionssatser;
 public class While {
 
     public static void main(String[] args) {
-        //whileLoopExempel();
-        doWhileExempel();
+        whileLoopExempel();
     }
 
-    private static void doWhileExempel() {
-        long start = System.currentTimeMillis();
-        do{
-            System.out.println("Gör detta så länge det inte gått mer än 10 sek sedan start.");
-            System.out.println("Antal millisekunder sedan 1 jan 1970: " + System.currentTimeMillis());
-        }
-        while(System.currentTimeMillis() - start < 10*1000 );
-        System.out.println("Nu har vi kommit ut ur do-while-loopen");
-    }
 
     static void whileLoopExempel() {
-        int räknare = 0;
-        while(räknare < 10){    // Gör följande så länge räknare är mindre än 10
-            System.out.println("Räknarens värde är mindre än 10.");
-            räknare ++;
+        // En while loop gör saker om och om igen så länge ett villkor är sant.
+        int räknare = 0; // En räknare vars värde kommer vara avgörande för när while-loopen ska ta slut.
+        while(räknare < 10){    // Gör följande så länge räknarena värde är mindre än 10:
+            System.out.println("Räknarens värde är " + räknare + " vilket är mindre än 10.");
+            räknare ++; // Uppdatera räknaren så att den så småningom kommer göra att villkoret blir falskt.
         }
 
-        System.out.println("Nu avlsutades tydligen while-loopen och denna rad kan äntligen köras!");
+        System.out.println("Nu avlsutades while-loopen eftersom villkoret inte längre är sant.");
     }
 }
