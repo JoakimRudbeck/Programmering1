@@ -1,5 +1,7 @@
 package kapitel08_Repetitionssatser;
 
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 import java.util.Scanner;
 
 public class ForLoop {
@@ -12,6 +14,34 @@ public class ForLoop {
         //loopaIgenomEnLista();
         //fyllaEnListaMedVärden();
         //nestladForLoopExempel();
+
+
+
+
+
+
+
+
+
+
+/*
+        // Besöker varje våning v:
+        for(int v = 1; v <= 6; v++){
+            // Besöker varje affär a
+            for(int a = 1; a <= 4; a++){
+                System.out.println("Är på våning " + v + ", vid affär " + a);
+            }
+
+
+
+
+        }
+*/
+
+
+
+
+
 
     }
 

@@ -3,9 +3,11 @@ package kapitel08_Repetitionssatser;
 public class While {
 
     public static void main(String[] args) {
-        whileLoopExempel();
-    }
+        //whileLoopExempel();
+        //whileContinueExempel();
+        //whileBreakExempel();
 
+    }
 
     static void whileLoopExempel() {
         // En while loop gör saker om och om igen så länge ett villkor är sant.
@@ -17,4 +19,31 @@ public class While {
 
         System.out.println("Nu avlsutades while-loopen eftersom villkoret inte längre är sant.");
     }
+
+    private static void whileContinueExempel() {
+        // Skriv ut alla tal som är delbara med 3
+        int talet = 1;
+        while(talet <= 100){
+            // Om talet inte är jämnt delbart med 3:
+            if(talet % 3 != 0){
+                talet++;
+                continue;   // Continue avbryter varvet och börjar på nästa varv
+            }
+            System.out.println(talet);
+            talet++;
+        }
+    }
+
+    private static void whileBreakExempel() {
+        // Skriv ut alla tal upp till och med 1337
+        int räknare = 1;
+        while(true){
+            System.out.println(räknare);
+            if(räknare == 1337){
+                break;          // break avbryter hela while-loopen.
+            }
+            räknare++;
+        }
+    }
+
 }
