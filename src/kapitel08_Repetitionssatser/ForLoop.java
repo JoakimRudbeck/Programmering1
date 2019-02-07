@@ -13,7 +13,7 @@ public class ForLoop {
         //forLoopExempelFrågaAnvändaren();
         //loopaIgenomEnLista();
         //fyllaEnListaMedVärden();
-        //nestladForLoopExempel();
+        nestladForLoopExempel();
         //besökaKöpCentret();
 
     }

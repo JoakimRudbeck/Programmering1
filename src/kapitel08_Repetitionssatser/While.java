@@ -7,6 +7,22 @@ public class While {
         //whileContinueExempel();
         //whileBreakExempel();
 
+
+
+
+
+
+
+
+
+        int a = 4;
+        int b = 10;
+        while(a < b){
+            System.out.println(a + " är mindre än "+ b);
+            a++;
+        }
+
+
     }
 
     static void whileLoopExempel() {

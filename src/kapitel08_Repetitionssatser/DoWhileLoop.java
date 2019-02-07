@@ -7,7 +7,7 @@ public class DoWhileLoop {
 
     }
 
-    private static void doWhileExempel() {
+        private static void doWhileExempel() {
         long start = System.currentTimeMillis();
         do{
             System.out.println("Gör detta så länge det inte gått mer än 10 sek sedan start.");
