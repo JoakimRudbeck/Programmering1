@@ -1,7 +1,8 @@
-public class Bitar {
+public class CountDown {
 
     public static void main(String[] args) throws InterruptedException {
         countDown();
+
     }
 
     private static void countDown() throws InterruptedException {
