@@ -1,6 +1,6 @@
 package kapitel02_Variabler;
 
-public class Integer {
+class ByteKlass {
 
     public static void main(String[] args) {
         byte maxValue = Byte.MAX_VALUE;
