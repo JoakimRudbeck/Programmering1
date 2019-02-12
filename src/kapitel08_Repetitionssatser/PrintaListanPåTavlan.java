@@ -10,6 +10,7 @@ public class PrintaListanPåTavlan {
     }
 
     static void printaListanPåTavlanMedFor() {
+
         for(int n = 22;n <= 70;n += 2){
             if(n%10 == 6){  // Om talet slutar på en sexa.
                 continue;
