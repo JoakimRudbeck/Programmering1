@@ -25,6 +25,6 @@ public class Inmatning {
         System.out.println("Hur gammal är du?");
         String ålderAsString = minSkanner.nextLine();           // Läser in en till rad från tangentbordet.
         int ålder = Integer.valueOf(ålderAsString);             // Typomvandling från String till int med hjälpklassen Integer.
-        System.out.println("Du är " + ålder + " år gammal.");
+        System.out.println("Du heter " + namn + " och är " + ålder + " år gammal.");
     }
 }

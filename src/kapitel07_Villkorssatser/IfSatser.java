@@ -12,19 +12,6 @@ public class IfSatser {
         //equalsExempel();
         //notContainsExempel();
 
-        long maxValue = Long.MAX_VALUE;
-        System.out.println(maxValue-3);
-        System.out.println(maxValue-2);
-        System.out.println(maxValue-1);
-        System.out.println(maxValue+1);
-        System.out.println(maxValue+2);
-        System.out.println(maxValue+3);
-
-
-        ifSats();
-        ifElseSats();
-        ifElseIfElseSats();
-        equalsExempel();
     }
 
     private static void notContainsExempel() {

@@ -9,6 +9,7 @@ public class CountDown {
 
     private static void countDown(long minuterKvar, int bas, int millis) throws InterruptedException {
         for(long i = 60*minuterKvar; i >= 0; i--){
+            System.out.print("Tid kvar av lektionen: ");
             switch(bas){
                 case 2:
                     System.out.println(Long.toBinaryString(i));
