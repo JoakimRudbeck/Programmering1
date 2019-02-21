@@ -5,12 +5,13 @@ import org.junit.jupiter.api.Assertions;
 import static org.junit.jupiter.api.Assertions.*;
 
 class TestKlassTest {
+    static TestKlass testKlass = new TestKlass();
 
     @org.junit.jupiter.api.Test
     void metodSomSkaTestas() {
         // GIVEN
         // Givet en instans av klassen som ska testas
-        TestKlass testKlass = new TestKlass();
+
 
         // WHEN
         // När metoden anropas
@@ -19,5 +20,15 @@ class TestKlassTest {
         // THEN
         // Då ska returvärdet vara 10.
         Assertions.assertEquals(10, returVärde);
+    }
+
+    @org.junit.jupiter.api.Test
+    void testaKvadrera(){
+
+        int minusTreIKvadrat = testKlass.kvadrera(-3);
+
+
+        Assertions.assertEquals(9, minusTreIKvadrat);
+
     }
 }

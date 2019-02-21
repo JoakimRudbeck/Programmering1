@@ -44,6 +44,7 @@ public class Metoder {
             Om metoden saknar returtyp anges det med nyckelordet void.
 
         */
+        run();
     }
 
     // En metod som tar in en parameter x av typen int och som returnerar en int som motsvarar det kvadrerade värdet av x.
@@ -61,5 +62,38 @@ public class Metoder {
         String resultat = sträng1 + sträng2;
         return resultat;
     }
+
+
+
+    static void run1(){
+        int[] array = new int[]{1,2,3};
+        flyttaEttStegTillHöger(array);
+        System.out.println(array[0]);
+    }
+
+    static void run(){
+        int a = 5;
+        squareMe(5);
+        System.out.println(a);
+    }
+
+    private static void flyttaEttStegTillHöger(int[] array) {
+
+
+        int temp = array[0];
+        for(int i = 1; i< array.length; i++){
+            int attSpara = array[i];
+            array[i] = temp;
+            temp = attSpara;
+        }
+        array[0] = temp;
+        System.out.println(array[0]);
+
+    }
+
+    private static void squareMe(int x){
+        x = x*x;
+    }
+
 
 }
