@@ -51,14 +51,12 @@ public class Metoder {
         return x*x;
     }
 
-
     // En metod som tar in två parametrar av typen int och som returnerar en double som representerar kvoten mellan täljare och nämnare.
     static double dividera(int täljare, int nämnare){
         double kvot = (double) täljare / nämnare;
         return kvot;
     }
 
-    
     static String slåIhopSträngar(String sträng1, String sträng2){
         String resultat = sträng1 + sträng2;
         return resultat;

@@ -3,7 +3,7 @@ import static java.lang.Thread.sleep;
 public class CountDown {
 
     public static void main(String[] args) throws InterruptedException {
-        countDown(100, 16, 1000);
+        countDown(1, 10, 1000);
 
     }
 
