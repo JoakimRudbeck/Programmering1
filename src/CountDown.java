@@ -1,10 +1,11 @@
+import java.math.BigInteger;
+
 import static java.lang.Thread.sleep;
 
 public class CountDown {
 
     public static void main(String[] args) throws InterruptedException {
-        countDown(1, 10, 1000);
-
+        countDown(6, 2, 1000);
     }
 
     private static void countDown(long minuterKvar, int bas, int millis) throws InterruptedException {
