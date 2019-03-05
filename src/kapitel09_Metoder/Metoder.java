@@ -45,6 +45,7 @@ public class Metoder {
 
         */
         run();
+        run1();
     }
 
     // En metod som tar in en parameter x av typen int och som returnerar en int som motsvarar det kvadrerade värdet av x.
