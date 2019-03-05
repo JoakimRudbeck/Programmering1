@@ -2,7 +2,6 @@ package kapitel09_Metoder;
 
 public class Metoder {
 
-
     public static void main(String[] args) {
         /*
             Denna kommentar ligger inuti en metod som har namnet main.
@@ -43,6 +42,18 @@ public class Metoder {
 
             Om metoden saknar returtyp anges det med nyckelordet void.
 
+
+            SYNLIGHET STATIC RETURTYP METODNAMN(EVENTUELLA PARAMETRAR){
+                METOD-KROPP
+                Eventuellt return ...
+            }
+
+            Exempel:
+
+            public static double geMigPiMultipliceratMed(double faktor){
+                double resultat = Math.PI * faktor;
+                return resultat;
+            }
         */
         run();
         run1();
@@ -64,8 +75,6 @@ public class Metoder {
         return resultat;
     }
 
-
-
     static void run1(){
         int[] array = new int[]{1,2,3};
         flyttaEttStegTillHöger(array);
@@ -80,21 +89,18 @@ public class Metoder {
 
     private static void flyttaEttStegTillHöger(int[] array) {
 
-
         int temp = array[0];
-        for(int i = 1; i< array.length; i++){
+        for(int i = 1; i<array.length; i++){
             int attSpara = array[i];
             array[i] = temp;
             temp = attSpara;
         }
         array[0] = temp;
         System.out.println(array[0]);
-
     }
 
     private static void squareMe(int x){
         x = x*x;
     }
-
 
 }

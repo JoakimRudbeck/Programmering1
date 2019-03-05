@@ -28,22 +28,11 @@ public class MatematiskaFunktionerExempel {
         return y;
     }
 
-    // SYNLIGHET STATIC RETURTYP METODNAMN(EVENTUELLA PARAMETRAR)
-        // METOD KROPP
-
-
-
-
-
-
-
-
-
-    static void printVärdetabell3(){
-        System.out.println("y = (4*x*x*x+8*x*x+18)/(17*x)");
+    static void printVärdetabell1(){
+        System.out.println("y = 2*x+4");
         for(int x = 1; x <= 5; x++){
-            double y = (4.0*x*x*x+8*x*x+18)/(17*x);
-            System.out.printf("(%d;%.1f)\n", x, y);
+            int y = yValueFromFunction1(x);
+            System.out.printf("(%d;%d)\n", x, y);
         }
     }
 
@@ -55,8 +44,8 @@ public class MatematiskaFunktionerExempel {
         }
     }
 
-    static void printVärdetabell1(){
-        System.out.println("y = 2*x+4");
+    static void printVärdetabell3(){
+        System.out.println("y = (4*x*x*x+8*x*x+18)/(17*x)");
         for(int x = 1; x <= 5; x++){
             int y = yValueFromFunction1(x);
             System.out.printf("(%d;%d)\n", x, y);
