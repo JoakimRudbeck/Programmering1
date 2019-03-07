@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9c5f159-160e-48e5-8359-9747d75df95b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="399127067">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="4" />
+          <entry key="Antecknignar" value="2" />
+          <entry key="Anteckningar" value="1" />
+          <entry key="BegreppInförProvet" value="1" />
+          <entry key="intelliJ_tips_och_trix" value="1" />
+          <entry key="java" value="34" />
+          <entry key="xml" value="2" />
+          <entry key="Övning1_1" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="1" value="135" />
+          <entry key="Antecknignar" value="88" />
+          <entry key="dummy" value="23" />
+          <entry key="intelliJ_tips_och_trix" value="474" />
+          <entry key="java" value="12016" />
+          <entry key="txt" value="5" />
+          <entry key="Övning1_1" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12016" />
+          <entry key="PLAIN_TEXT" value="806" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1947601325">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="1" />
+          <entry key="Anteckningar" value="1" />
+          <entry key="BegreppInförProvet" value="2" />
+          <entry key="Läxförhör_kap_1-4+6" value="1" />
+          <entry key="form" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="94" />
+          <entry key="java~HEAD" value="1" />
+          <entry key="java~HEAD_0" value="1" />
+          <entry key="log" value="1" />
+          <entry key="md" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="94" />
+          <entry key="PLAIN_TEXT" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Läxförhör_kap_1-4+6" value="82" />
+          <entry key="dummy" value="35" />
+          <entry key="intelliJ_tips_och_trix" value="178" />
+          <entry key="java" value="16642" />
+          <entry key="md" value="69" />
+          <entry key="txt" value="242" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16642" />
+          <entry key="PLAIN_TEXT" value="606" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1460281092">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="969" />
+          <entry key="md" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="969" />
+          <entry key="PLAIN_TEXT" value="57" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/Slump.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UtanförGit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/TaBortTeckenFrånSträng.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/TestKlassTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kapitel04_Operatorer/Modulo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kapitel07_Villkorssatser/Villkor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="683">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/KlassSomSkaTestas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/KlassSomSkaTestasTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-455">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>++</find>
+      <find>countDown</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/intelliJ_tips_och_trix" />
+        <option value="$PROJECT_DIR$/src/DagensLektion.java" />
+        <option value="$PROJECT_DIR$/src/kapitel4_Operatorer/Uppgifter.java" />
+        <option value="$PROJECT_DIR$/src/Läxförhör_kap_1-4+6" />
+        <option value="$PROJECT_DIR$/src/kapitel1_Grunder/BegreppInförProvet.md" />
+        <option value="$PROJECT_DIR$/src/Läxförhör_kap_1-4+6.md" />
+        <option value="$PROJECT_DIR$/src/kapitel5_Debugging/Debugging.java" />
+        <option value="$PROJECT_DIR$/src/kapitel6_AktivitetsdiagramOchPseudokod/Övningar.java" />
+        <option value="$PROJECT_DIR$/src/kapitel7_if_satser/Villkor.java" />
+        <option value="$PROJECT_DIR$/src/kapitel7_if_satser/IfSatser.java" />
+        <option value="$PROJECT_DIR$/src/kapitel7_if_satser/SwitchCase.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/kapitel07_Villkorssatser/SwitchCase.java" />
+        <option value="$PROJECT_DIR$/src/kapitelX_Enhetstester/TestKlassTest.java" />
+        <option value="$PROJECT_DIR$/src/kapitel07_Villkorssatser/Villkorsoperatorn.java" />
+        <option value="$PROJECT_DIR$/src/Bitar.java" />
+        <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/DoWhileLoop.java" />
+        <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/PrintaListanPåTavlan.java" />
+        <option value="$PROJECT_DIR$/src/kapitel07_Villkorssatser/IfSatser.java" />
+        <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/ForLoop.java" />
+        <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/Repetitionssatser.java" />
+        <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/While.java" />
+        <option value="$PROJECT_DIR$/src/kapitel02_Variabler/Typomvandling.java" />
+        <option value="$PROJECT_DIR$/src/kapitel02_Variabler/Integer.java" />
+        <option value="$PROJECT_DIR$/src/kapitel02_Variabler/Inmatning.java" />
+        <option value="$PROJECT_DIR$/src/TEST2.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/KlassMedMetoder.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/MyGui.form" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/MyGui.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/OscarsKlass.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/OscarsFråga.java" />
+        <option value="$PROJECT_DIR$/src/kapitel01_Grunder/AlansKlass.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/TaBortTeckenFrånSträng.java" />
+        <option value="$PROJECT_DIR$/src/UtanförGit.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/VärdeParametrar.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/DagarKvarTill.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/MatematiskaFunktionerExempel.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/Metoder.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/TEST.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/MerExempel.java" />
+        <option value="$PROJECT_DIR$/src/CountDown.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/OSCARSFRÅGA.java" />
+        <option value="$PROJECT_DIR$/src/kapitelX_Enhetstester/MatteVerktyget.java" />
+        <option value="$PROJECT_DIR$/src/intelliJ_tips_och_trix.md" />
+        <option value="$PROJECT_DIR$/src/kapitelX_Enhetstester/MatteVerktygetTest.java" />
+        <option value="$PROJECT_DIR$/src/kapitel04_Operatorer/Modulo.java" />
+        <option value="$PROJECT_DIR$/src/kapitelX_Enhetstester/KlassSomSkaTestas.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/TaBortTeckenFrånSträngTest.java" />
+        <option value="$PROJECT_DIR$/src/kapitel09_Metoder/Slump.java" />
+        <option value="$PROJECT_DIR$/src/kapitelX_Enhetstester/KlassSomSkaTestasTest.java" />
+        <option value="$PROJECT_DIR$/src/kapitel07_Villkorssatser/Villkor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="269" />
+    <option name="y" value="97" />
+    <option name="width" value="1255" />
+    <option name="height" value="655" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Programmering1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programmering1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programmering1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kapitel07_Villkorssatser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programmering1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kapitelX_Enhetstester" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551951901195" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="kapitel09_Metoder" />
+      <recent name="kapitelX_Enhetstester" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Slump">
+    <configuration name="OSCARSFRÅGA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kapitel09_Metoder.OSCARSFRÅGA" />
+      <module name="Programmering1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kapitel09_Metoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Slump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kapitel09_Metoder.Slump" />
+      <module name="Programmering1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kapitel09_Metoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KlassSomSkaTestasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmering1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kapitelX_Enhetstester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kapitelX_Enhetstester" />
+      <option name="MAIN_CLASS_NAME" value="kapitelX_Enhetstester.KlassSomSkaTestasTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KlassSomSkaTestasTest.kvadreraBörKvadrera" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmering1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kapitelX_Enhetstester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kapitelX_Enhetstester" />
+      <option name="MAIN_CLASS_NAME" value="kapitelX_Enhetstester.KlassSomSkaTestasTest" />
+      <option name="METHOD_NAME" value="kvadreraBörKvadrera" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KlassSomSkaTestasTest.negativTalSkaReturneraPositivtTal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmering1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kapitelX_Enhetstester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kapitelX_Enhetstester" />
+      <option name="MAIN_CLASS_NAME" value="kapitelX_Enhetstester.KlassSomSkaTestasTest" />
+      <option name="METHOD_NAME" value="negativTalSkaReturneraPositivtTal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OSCARSFRÅGA" />
+      <item itemvalue="JUnit.KlassSomSkaTestasTest.kvadreraBörKvadrera" />
+      <item itemvalue="JUnit.KlassSomSkaTestasTest.negativTalSkaReturneraPositivtTal" />
+      <item itemvalue="JUnit.KlassSomSkaTestasTest" />
+      <item itemvalue="Application.Slump" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Slump" />
+        <item itemvalue="JUnit.KlassSomSkaTestasTest" />
+        <item itemvalue="JUnit.KlassSomSkaTestasTest.kvadreraBörKvadrera" />
+        <item itemvalue="JUnit.KlassSomSkaTestasTest.negativTalSkaReturneraPositivtTal" />
+        <item itemvalue="Application.OSCARSFRÅGA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c5f159-160e-48e5-8359-9747d75df95b" name="Default Changelist" comment="" />
+      <created>1543844053456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543844053456</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1547556327648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547556327648</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removing file">
+      <created>1547556508349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547556508349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lägger till uppgift 4.4">
+      <created>1547710185460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547710185460</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test github markup">
+      <created>1547715981473</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547715981473</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test github markup">
+      <created>1547716030433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547716030433</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test github markup">
+      <created>1547716129334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547716129334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lägger till förslag till övning 6.1.">
+      <created>1547806025055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547806025055</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lägger till if-satser">
+      <created>1548143350052</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548143350052</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lägger till switchcase-exempel">
+      <created>1548320154414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548320154414</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge branch 'master' of https://github.com/JoakimRudbeck/Programmering1&#10;&#10;# Conflicts:&#10;#&#9;src/kapitel07_Villkorssatser/Villkor.java">
+      <created>1548320369824</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1548320369824</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge branch 'master' of https://github.com/JoakimRudbeck/Programmering1&#10;&#10;# Conflicts:&#10;#&#9;src/kapitel07_Villkorssatser/Villkor.java">
+      <created>1548683627660</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548683627660</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/JoakimRudbeck/Programmering1&#10;&#10;# Conflicts:&#10;#&#9;src/kapitel07_Villkorssatser/Villkor.java">
+      <created>1549357174911</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549357174911</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge branch 'master' of https://github.com/JoakimRudbeck/Programmering1&#10;&#10;# Conflicts:&#10;#&#9;src/kapitel07_Villkorssatser/Villkor.java">
+      <created>1549357385004</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549357385004</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding list from table">
+      <created>1549526970546</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1549526970546</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding list from table">
+      <created>1549889512065</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1549889512065</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1549955811500</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1549955811500</updated>
+    </task>
+    <task id="LOCAL-00017" summary="removing skräp">
+      <created>1549955844887</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1549955844887</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cleaning up">
+      <created>1549956730262</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1549956730262</updated>
+    </task>
+    <task id="LOCAL-00019" summary="cleaning up">
+      <created>1549957366046</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1549957366046</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update">
+      <created>1550737870749</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1550737870749</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update">
+      <created>1551791606141</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1551791606141</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="KlassSomSkaTestasTest_kvadreraBörKvadrera - 2019.03.07 at 08h 49m 04s.xml">
+      <configuration name="KlassSomSkaTestasTest.kvadreraBörKvadrera" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KlassSomSkaTestasTest_negativTalSkaReturneraPositivtTal - 2019.03.07 at 08h 52m 51s.xml">
+      <configuration name="KlassSomSkaTestasTest.negativTalSkaReturneraPositivtTal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KlassSomSkaTestasTest_kvadreraBörKvadrera - 2019.03.07 at 08h 53m 09s.xml">
+      <configuration name="KlassSomSkaTestasTest.kvadreraBörKvadrera" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KlassSomSkaTestasTest - 2019.03.07 at 08h 53m 15s.xml">
+      <configuration name="KlassSomSkaTestasTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KlassSomSkaTestasTest - 2019.03.07 at 08h 53m 45s.xml">
+      <configuration name="KlassSomSkaTestasTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27588996" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.096721314" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.20983607" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.5163934" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Removing file" />
+    <MESSAGE value="Lägger till uppgift 4.4" />
+    <MESSAGE value="test github markup" />
+    <MESSAGE value="Lägger till förslag till övning 6.1." />
+    <MESSAGE value="lägger till if-satser" />
+    <MESSAGE value="lägger till switchcase-exempel" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/JoakimRudbeck/Programmering1&#10;&#10;# Conflicts:&#10;#&#9;src/kapitel07_Villkorssatser/Villkor.java" />
+    <MESSAGE value="Adding list from table" />
+    <MESSAGE value="removing skräp" />
+    <MESSAGE value="cleaning up" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel5_Debugging/Debugging.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel4_Operatorer/Operatorer.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel6_AktivitetsdiagramOchPseudokod/Övningar.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel7_if_satser/IfSatser.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel7_if_satser/SwitchCase.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/ForLoop.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/While.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Bitar.java" />
+    <entry file="file://$PROJECT_DIR$/src/CountDown.java~HEAD_0" />
+    <entry file="file://$PROJECT_DIR$/src/CountDown.java~HEAD" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel04_Operatorer/Operatorer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel04_Operatorer/Uppgifter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel03_Listor/Arrayer_Listor_Fält.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel01_Grunder/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-455">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel02_Variabler/IntegersAndBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel02_Variabler/Variabler_Deklarering_Tilldelning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel05_Debugging/Debugging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel06_AktivitetsdiagramOchPseudokod/Övningar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel07_Villkorssatser/IfSatser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2065">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel07_Villkorssatser/SwitchCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel07_Villkorssatser/Villkorsoperatorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1366">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/DoWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/ForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/Repetitionssatser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/While.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1298">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/Yatzy.java" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel08_Repetitionssatser/PrintaListanPåTavlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel02_Variabler/Typomvandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TEST2.java" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/MyGui.form" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/MyGui.java" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/OscarsKlass.java" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/KlassMedMetoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/kapitel02_Variabler/Inmatning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/VärdeParametrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/DagarKvarTill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/Metoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/MatematiskaFunktionerExempel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/MerExempel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel01_Grunder/AlansKlass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel02_Variabler/ByteKlass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel13_Sortering_och_Sökning/Bubbelsortering.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/TestKlass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intelliJ_tips_och_trix.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DagensLektion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel04_Operatorer/Modulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/TestKlassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/TaBortTeckenFrånSträngTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/OSCARSFRÅGA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/TaBortTeckenFrånSträng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/MatteVerktyget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/MatteVerktygetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/Slump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UtanförGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/KlassSomSkaTestas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitelX_Enhetstester/KlassSomSkaTestasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-455">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kapitel07_Villkorssatser/Villkor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Programmering1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

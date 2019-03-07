@@ -3,7 +3,6 @@ package kapitel09_Metoder;
 public class Slump {
 
     public static void main(String[] args) {
-
     }
 
     static void slumpaTal(){

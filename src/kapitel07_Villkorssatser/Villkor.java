@@ -19,6 +19,9 @@ public class Villkor {
         System.out.println(3 != 7);     // skilt från
     }
 
+
+
+
     static void sammanslagnaVillkor() {
         // En kan slå ihop villkor med varandra med hjälp av OCH och ELLER
         // OCH skrivs &&
