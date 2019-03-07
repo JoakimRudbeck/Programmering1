@@ -39,7 +39,7 @@ public class Arrayer_Listor_Fält {
         Scanner minScanner = new Scanner(System.in);
         System.out.println("Skriv in en mening, tack.");
         String mening = minScanner.nextLine();
-        // Delar upp meningen genom att splitta på mellanslag
+        //Delar upp meningen genom att splitta på mellanslag
         String[] ordIMening = mening.split(" ");
         System.out.println("'" + mening + "' har " + ordIMening.length + " ord i sig.");
     }
