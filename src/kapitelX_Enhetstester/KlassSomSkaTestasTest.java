@@ -21,7 +21,6 @@ class KlassSomSkaTestasTest {
         // Then
         // Då ska värdet vi får tillbaka vara 25
         Assertions.assertEquals(25,kvadraten);
-
     }
 
     @Test
