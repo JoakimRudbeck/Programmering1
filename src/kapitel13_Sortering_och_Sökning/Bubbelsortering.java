@@ -5,9 +5,9 @@ public class Bubbelsortering {
     public static void main(String[] args) {
         int[] osorterad = new int[]{3,7,2,1,0,-34,128,-4,7};
         int[] sorterad = bubbelSortera(osorterad);
-        String utdata = "";
-        for(int i : sorterad){
-            utdata +="," + i;
+        String utdata = ""; // Tom sträng som fylls på allteftersom.
+        for(int i = 0; i <sorterad.length; i++){
+            utdata +="," + sorterad[i];
         }
         System.out.println(utdata.substring(1));
     }
