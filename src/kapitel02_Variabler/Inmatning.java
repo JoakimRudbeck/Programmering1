@@ -8,6 +8,8 @@ public class Inmatning {
         merScanner();
     }
 
+    // För att få input från användaren använder
+    // man i Java ett Scanner-objekt.
     private static void scanner() {
         Scanner minSkanner = new Scanner(System.in);
         System.out.println("Skriv in ett ord, tack: ");

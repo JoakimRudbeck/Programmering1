@@ -7,7 +7,6 @@ public class Debugging {
         debuggingExempel2();
     }
 
-
     static void debuggingExempel1(){
         String[] minLista;
         System.out.println("Välkommen till mig!");

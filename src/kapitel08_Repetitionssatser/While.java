@@ -3,9 +3,9 @@ package kapitel08_Repetitionssatser;
 public class While {
 
     public static void main(String[] args) {
-        //whileLoopExempel();
-        //whileContinueExempel();
-        //whileBreakExempel();
+        whileLoopExempel();
+        whileContinueExempel();
+        whileBreakExempel();
     }
 
     static void whileLoopExempel() {
