@@ -8,7 +8,6 @@ public class Arrayer_Listor_Fält {
         frukter();
         bytaPlatsPåTvåElementILista();
         antalOrdIMening();
-        permutationer();
         listorIListor();
         vilkenMeningÄrStörst();
     }
@@ -28,9 +27,9 @@ public class Arrayer_Listor_Fält {
     private static void bytaPlatsPåTvåElementILista() {
         int[] lista = {3,5};
         System.out.println("Värdena innan = " + lista[0] + "," + lista[1]);
-        int temp = lista[0];        // Sparar undan det första värdet i en variabel.
-        lista[0] = lista[1];        // Lägger in det andra värdet på platsen för det första värdet.
-        lista[1] = temp;            // Lägger in undansparade värdet på det andra värdets plats.
+        int temp = lista[0];                                                    // Sparar undan det första värdet i en variabel.
+        lista[0] = lista[1];                                                    // Lägger in det andra värdet på platsen för det första värdet.
+        lista[1] = temp;                                                        // Lägger in undansparade värdet på det andra värdets plats.
         System.out.println("Värdena efter = " + lista[0] + "," + lista[1]);
     }
 
@@ -50,26 +49,6 @@ public class Arrayer_Listor_Fält {
         int[] lista3 = {7,8,9};
         int[][] tvåDimLista = {lista1, lista2, lista3};
         System.out.println(tvåDimLista[2][1]);
-    }
-
-    // Detta är uppgiften om permutationer
-    static void permutationer(){
-        // Skapar en lista med 3 platser
-        String[] lista = new String[3];
-        System.out.println("Skriv in 3 ord, tack:");
-        Scanner minScanner = new Scanner(System.in);
-        String a = minScanner.nextLine();
-        System.out.println("a = " + a);
-        String b = minScanner.nextLine();
-        System.out.println("b = " + b);
-        String c = minScanner.nextLine();
-        System.out.println("c = " + c);
-        String[] minaOrd1 = {a, b, c};
-        String[] minaOrd2 ={a,c,b};
-        String[] minaOrd3 ={b,a,c};
-        String[] minaOrd4 ={b,c,a};
-        String[] minaOrd5 ={c,a,b};
-        String[] minaOrd6 ={c,b,a};
     }
 
     static void vilkenMeningÄrStörst(){

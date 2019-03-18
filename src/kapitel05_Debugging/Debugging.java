@@ -20,6 +20,8 @@ public class Debugging {
         System.out.println(minLista[1]);
         System.out.println(minLista[2]);
         System.out.println(minLista[3]);
+
+        // minLista ser nu ut såhär: {"hej", "tjena", "hello", "tjenixen"}
     }
 
     static void debuggingExempel2() {
