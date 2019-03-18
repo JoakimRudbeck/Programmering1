@@ -19,9 +19,7 @@ public class MatematiskaFunktionerExempel {
             }
         }
 
-
     }
-
 
     private static int yValueFromFunction1(int x) {
         int y = 2*x+4;

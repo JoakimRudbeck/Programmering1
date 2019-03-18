@@ -1,11 +1,13 @@
 package kapitel09_Metoder;
 
+import java.util.Scanner;
+
 public class Slump {
 
     public static void main(String[] args) {
         slumpaTal();
-        //slumpa4ever();
-        simuleraYatzy();
+        slumpa4ever();
+        simuleraTärningskast();
     }
 
     static void slumpaTal(){
@@ -21,28 +23,24 @@ public class Slump {
         // Math.random()*k ger värden mellan 0 och k (dock lite mer spritt).
 
     }
+    static void simuleraTärningskast() {
+        System.out.println("Hur många gånger ska vi kasta tärningarna?");
+        Scanner input = new Scanner(System.in);
+        int antalKast = input.nextInt();
+        int summa10 = 0;
+        for(int i = 0; i < antalKast; i++){
+            int summa = ((int)(1 + Math.random()*6)) + ((int)(1 + Math.random()*6)) + ((int)(1 + Math.random()*6));
+            if(summa == 10){
+                summa10++;
+            }
+        }
+        double svar = (double)summa10/antalKast;
+        System.out.println("Sannolikheten: " + svar);
+    }
 
     static void slumpa4ever(){
         while(true){
             System.out.println(Math.random());
         }
     }
-
-
-    static void simuleraYatzy(){
-        int antalSimuleringar = 1000000;
-        int antalYatzy = 0;
-        for(int i = 0; i < antalSimuleringar; i++){
-            int tärning1 = (int) (1 + Math.random()*6);
-            int tärning2 = (int) (1 + Math.random()*6);
-            int tärning3 = (int) (1 + Math.random()*6);
-            int tärning4 = (int) (1 + Math.random()*6);
-            int tärning5 = (int) (1 + Math.random()*6);
-            if(tärning1 == tärning2 && tärning2 == tärning3 && tärning3 == tärning4 && tärning4 == tärning5){
-                antalYatzy++;
-            }
-        }
-        System.out.printf("Av %d kast blev det %d YATZY (%.2f procent)", antalSimuleringar, antalYatzy, 100*(float)antalYatzy/antalSimuleringar);
-    }
-
 }

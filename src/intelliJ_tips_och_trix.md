@@ -16,3 +16,6 @@ som ett rött streck där det finns ett fel.
 Extrahera kod till en metod:
 Markera din kod, ctrl + alt + m , välj namn på metoden, enter
 Alternativt: markera koden, högerklicka, refactor -> extract -> method
+
+Skapa ett test för din klass:
+ctrl + shift + t

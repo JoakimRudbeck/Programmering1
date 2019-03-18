@@ -75,16 +75,16 @@ public class Metoder {
         return resultat;
     }
 
-    static void run1(){
-        int[] array = new int[]{1,2,3};
-        flyttaEttStegTillHöger(array);
-        System.out.println(array[0]);
-    }
-
     static void run(){
         int a = 5;
         squareMe(5);
         System.out.println(a);
+    }
+
+    static void run1(){
+        int[] array = new int[]{1,2,3};
+        flyttaEttStegTillHöger(array);
+        System.out.println(array[0]);
     }
 
     private static void flyttaEttStegTillHöger(int[] array) {

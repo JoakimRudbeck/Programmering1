@@ -7,8 +7,8 @@ public class Villkorsoperatorn {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        //villkorsoperatorn();
-        //villkorsOperatornExempel();
+        villkorsoperatorn();
+        villkorsOperatornExempel();
     }
 
     private static void villkorsoperatorn() {
@@ -20,7 +20,6 @@ public class Villkorsoperatorn {
         String värde = tal > 10 ? "värdet är större än 10" : "värdet är mindre än 10";
         System.out.println(värde);
     }
-
 
     private static void villkorsOperatornExempel() {
         // Fråga om ett tal.

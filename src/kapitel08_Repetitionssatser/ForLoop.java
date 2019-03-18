@@ -7,12 +7,12 @@ public class ForLoop {
     private static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        //forLoopExempel();
-        //forLoopExempelFrågaAnvändaren();
-        //loopaIgenomEnLista();
-        //fyllaEnListaMedVärden();
-        //nestladForLoopExempel();
-        //besökaKöpCentret();
+        forLoopExempel();
+        forLoopExempelFrågaAnvändaren();
+        loopaIgenomEnLista();
+        fyllaEnListaMedVärden();
+        nestladForLoopExempel();
+        besökaKöpCentret();
 
     }
 

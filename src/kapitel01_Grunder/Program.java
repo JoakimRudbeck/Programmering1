@@ -16,7 +16,7 @@ public class Program {
         System.out.println("Detta är kod inuti metoden uppgiftABC()");
     }
 
-    // Att skriva variabelnamn eller metodnamn såhär: detHärEttVariabelNamn kallas camelCase.
+    // Att skriva variabelnamn eller metodnamn såhär: detHärEttVariabelNamn kallas att skriva i camelCase.
     static void enAnnanUppgift(){
         System.out.println("Detta är kod inuti metoden enAnnanUppgift()");
     }
