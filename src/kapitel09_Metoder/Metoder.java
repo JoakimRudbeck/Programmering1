@@ -55,8 +55,8 @@ public class Metoder {
                 return resultat;
             }
         */
-        run();
         run1();
+        run2();
     }
 
     // En metod som tar in en parameter x av typen int och som returnerar en int som motsvarar det kvadrerade värdet av x.
@@ -75,13 +75,13 @@ public class Metoder {
         return resultat;
     }
 
-    static void run(){
+    static void run1(){
         int a = 5;
         squareMe(5);
         System.out.println(a);
     }
 
-    static void run1(){
+    static void run2(){
         int[] array = new int[]{1,2,3};
         flyttaEttStegTillHöger(array);
         System.out.println(array[0]);

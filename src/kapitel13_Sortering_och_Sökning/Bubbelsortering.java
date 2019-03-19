@@ -3,13 +3,23 @@ package kapitel13_Sortering_och_Sökning;
 public class Bubbelsortering {
 
     public static void main(String[] args) {
-        int[] osorterad = new int[]{3,7,2,1,0,-34,128,-4,7};
-        int[] sorterad = bubbelSortera(osorterad);
-        String utdata = ""; // Tom sträng som fylls på allteftersom.
-        for(int i = 0; i <sorterad.length; i++){
+        bubbelSortering();
+    }
+
+    private static void bubbelSortering() {
+        int[] osorterad = new int[]{3,7,2,1,0,-34,128,-4,7};    // Osorterad lista
+        String utdata = "";
+        for(int i = 0; i < osorterad.length; i++){
+            utdata +="," + osorterad[i];
+        }
+        System.out.println("Listan innan: " + utdata.substring(1));
+
+        int[] sorterad = bubbelSortera(osorterad);              // Sorterad lista
+        utdata = "";
+        for(int i = 0; i < sorterad.length; i++){
             utdata +="," + sorterad[i];
         }
-        System.out.println(utdata.substring(1));
+        System.out.println("Listan efter: " + utdata.substring(1));
     }
 
     static int[] bubbelSortera(int[] lista){

@@ -19,6 +19,7 @@ public class SwitchCase {
                 break;
             case "Super":
                 System.out.println(":D");
+                break;
             case "Dåligt":
                 System.out.println(":(");
                 break;

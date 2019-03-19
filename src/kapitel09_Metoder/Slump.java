@@ -5,17 +5,19 @@ import java.util.Scanner;
 public class Slump {
 
     public static void main(String[] args) {
-        while(true){
-            System.out.println((int) (1 + Math.random()*6));
-        }
+        slumpaTal();
+        slumpa4ever();
+        simuleraTärningskast();
     }
 
     static void slumpaTal(){
         // Slumpa tal mellan 0 och 1 (1 exkl.)
         double slump1 = Math.random();
+        System.out.println(slump1);
 
         // Slumpa tal mellan 1 och 6
-        double slump2 = (int) (1 + Math.random()*6);
+        int slump2 = (int) (1 + Math.random()*6);
+        System.out.println(slump2);
 
         // Math.random() ger värden mellan 0 och 1
         // Math.random()*k ger värden mellan 0 och k (dock lite mer spritt).
@@ -34,5 +36,11 @@ public class Slump {
         }
         double svar = (double)summa10/antalKast;
         System.out.println("Sannolikheten: " + svar);
+    }
+
+    static void slumpa4ever(){
+        while(true){
+            System.out.println(Math.random());
+        }
     }
 }
