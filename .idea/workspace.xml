@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9c5f159-160e-48e5-8359-9747d75df95b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/KapitelY_Felsökning/FelSökning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -138,27 +139,27 @@
         <counts>
           <entry key="1" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="69" />
+          <entry key="java" value="70" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="69" />
+          <entry key="JAVA" value="70" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="29" />
-          <entry key="java" value="3815" />
+          <entry key="java" value="4065" />
           <entry key="md" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3815" />
+          <entry key="JAVA" value="4065" />
           <entry key="PLAIN_TEXT" value="86" />
         </counts>
       </usages-collector>
@@ -200,11 +201,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kapitel09_Metoder/Tärningar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="735">
               <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/KapitelY_Felsökning/FelSökning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -252,7 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Bitar.java" />
         <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/DoWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/PrintaListanPåTavlan.java" />
         <option value="$PROJECT_DIR$/src/kapitel08_Repetitionssatser/Repetitionssatser.java" />
@@ -303,6 +316,7 @@
         <option value="$PROJECT_DIR$/src/kapitel13_Sortering_och_Sökning/Bubbelsortering.java" />
         <option value="$PROJECT_DIR$/src/kapitel13_Sortering_och_Sökning/UppgifterSorteringOchSökning.java" />
         <option value="$PROJECT_DIR$/src/kapitel09_Metoder/Tärningar.java" />
+        <option value="$PROJECT_DIR$/src/KapitelY_Felsökning/FelSökning.java" />
       </list>
     </option>
   </component>
@@ -332,18 +346,6 @@
               <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Programmering1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kapitel09_Metoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programmering1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programmering1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kapitel13_Sortering_och_Sökning" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -355,7 +357,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552984250288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552984578560" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -387,13 +389,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tärningar">
-    <configuration name="AntonAugustKevin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kapitel09_Metoder.AntonAugustKevin" />
+  <component name="RunManager" selected="Application.FelSökning">
+    <configuration name="Bubbelsortering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kapitel13_Sortering_och_Sökning.Bubbelsortering" />
       <module name="Programmering1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kapitel09_Metoder.*" />
+          <option name="PATTERN" value="kapitel13_Sortering_och_Sökning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,12 +403,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bubbelsortering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kapitel13_Sortering_och_Sökning.Bubbelsortering" />
+    <configuration name="FelSökning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KapitelY_Felsökning.FelSökning" />
       <module name="Programmering1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kapitel13_Sortering_och_Sökning.*" />
+          <option name="PATTERN" value="KapitelY_Felsökning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,19 +457,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AntonAugustKevin" />
       <item itemvalue="Application.Tärningar" />
       <item itemvalue="JUnit.GeometriTest" />
       <item itemvalue="Application.Bubbelsortering" />
       <item itemvalue="Application.UppgifterSorteringOchSökning" />
+      <item itemvalue="Application.FelSökning" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FelSökning" />
         <item itemvalue="Application.Tärningar" />
         <item itemvalue="Application.UppgifterSorteringOchSökning" />
         <item itemvalue="Application.Bubbelsortering" />
         <item itemvalue="JUnit.GeometriTest" />
-        <item itemvalue="Application.AntonAugustKevin" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +694,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552984059115</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update">
+      <created>1552984265385</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1552984265385</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -740,7 +749,7 @@
     <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28236246" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28236246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -749,8 +758,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.029508196" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.13934426" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13934426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13934426" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
@@ -835,13 +844,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CountDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/intelliJ_tips_och_trix.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1143,6 +1145,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KapitelY_Felsökning/FelSökning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
