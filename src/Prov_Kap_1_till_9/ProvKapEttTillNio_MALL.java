@@ -1,11 +1,17 @@
 package Prov_Kap_1_till_9;
 
+import java.util.Scanner;
+
 public class ProvKapEttTillNio_MALL {
+    static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        uppgift1_2poäng();
-        uppgift2_3poäng();
-        uppgift3_4poäng();
+        //uppgift1_2poäng();
+        scan.nextLine();
+        //uppgift2_3poäng();
+        scan.nextLine();
+        //uppgift3_4poäng();
+        scan.nextLine();
     }
 
 
