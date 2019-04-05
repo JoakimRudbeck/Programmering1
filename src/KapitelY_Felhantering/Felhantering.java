@@ -8,8 +8,38 @@ public class Felhantering {
     private static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        //felhanteringExempel();
+        felhanteringExempel();
+        divideByZeroExample();
         arrayExempel();
+    }
+
+    private static void divideByZeroExample() {
+        try{
+            System.out.printf("Täljare?");
+            int täljare = Integer.valueOf(scan.nextLine());
+            System.out.printf("Nämnare?");
+            int nämnare = Integer.valueOf(scan.nextLine());
+            int kvot = täljare / nämnare;
+            System.out.println(kvot);
+        }
+        catch(ArithmeticException error){
+            System.err.println("Division med noll inte tillåtet.");
+        }
+    }
+
+
+    private static void felhanteringExempel() {
+        try{
+            scan = new Scanner(System.in);
+            System.out.println("Namn: ");
+            String namn = scan.nextLine();
+            System.out.println("Ålder: ");
+            int ålder = Integer.valueOf(scan.nextLine());
+            System.out.println("Du heter " + namn + " och är " + ålder + " år gammal.");
+        }
+        catch(NumberFormatException error){
+            System.out.println("Det har blivit fel med siffrorna, skriv ett tal tack.");
+        }
     }
 
     private static void arrayExempel() {
@@ -38,20 +68,6 @@ public class Felhantering {
         }
         catch(ArrayIndexOutOfBoundsException error){
             System.out.println("Index måste vara existerande.");
-        }
-    }
-
-    private static void felhanteringExempel() {
-        try{
-            scan = new Scanner(System.in);
-            System.out.println("Namn: ");
-            String namn = scan.nextLine();
-            System.out.println("Ålder: ");
-            int ålder = Integer.valueOf(scan.nextLine());
-            System.out.println("Du heter " + namn + " och är " + ålder + " år gammal.");
-        }
-        catch(NumberFormatException error){
-            System.out.println("Det har blivit fel med siffrorna, skriv ett tal tack.");
         }
     }
 }
