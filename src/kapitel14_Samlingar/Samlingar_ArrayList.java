@@ -1,14 +1,16 @@
 package kapitel14_Samlingar;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Samlingar_ArrayList {
 
     public static void main(String[] args) {
-        arrayListExempel();
+        //arrayListExempel();
+        arrayListMedSträngarExempel();
     }
 
-    private static void arrayListExempel() {
+    static void arrayListExempel() {
         System.out.println("ARRAYLIST EXEMPEL");
         // En arrayList är en dynamisk lista som kan ändra storlek.
         // Du kan enkelt lägga till och ta bort element från en arrayList med add(element) och remove(index)
@@ -36,5 +38,30 @@ public class Samlingar_ArrayList {
         for (char c : "joakim".toCharArray()){
             System.out.println(c);
         }
+    }
+
+    static void arrayListMedSträngarExempel(){
+        ArrayList<String> strängarIEnLista; // Deklararer en ny variabel av typen ArrayList
+        strängarIEnLista = new ArrayList<>(); // Tilldelar variabeln värdet av en ny tom dynamisk lista
+
+        System.out.println("Hur många strängar vill du spara i din dynamiska lista ?");
+        Scanner scan = new Scanner(System.in);
+        String antalSomSträng = scan.nextLine();
+        int antalSträngar = Integer.valueOf(antalSomSträng);
+
+        for(int i = 0; i < antalSträngar; i++){
+            System.out.println("Vilket ord vill du lägga till?");
+            String ordet = scan.nextLine();
+            strängarIEnLista.add(ordet);
+            System.out.println("Listans innehåll: " + strängarIEnLista);
+        }
+        String run = "ja";
+        while("ja".equalsIgnoreCase(run)){
+            System.out.println("Vill du byta plats på några strängar i listan?");
+            run = scan.nextLine();
+            // TODO
+
+        }
+
     }
 }
