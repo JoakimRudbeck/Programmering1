@@ -6,7 +6,7 @@ public class ProvKapEttTillNio_V1_LÖSNING {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        uppgift1_4poäng();
+        /*uppgift1_4poäng();
         scan.nextLine();
         uppgift2_4poäng();
         scan.nextLine();
@@ -17,7 +17,7 @@ public class ProvKapEttTillNio_V1_LÖSNING {
         uppgift5_6poäng();
         scan.nextLine();
         uppgift6_6poäng();
-        scan.nextLine();
+        scan.nextLine();*/
         uppgift7_8poäng();
         scan.nextLine();
     }
@@ -247,9 +247,11 @@ public class ProvKapEttTillNio_V1_LÖSNING {
             for(int j = 0; j < konsonanterSmå.length; j++) {
                 if (tecken == konsonanterSmå[j]) {
                     resultat += "o" + tecken;
+                    break;
                 }
                 else if(tecken == konsonanterStora[j]){
                     resultat+= "O" + tecken;
+                    break;
                 }
             }
         }
