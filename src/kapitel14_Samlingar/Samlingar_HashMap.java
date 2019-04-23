@@ -28,10 +28,18 @@ public class Samlingar_HashMap {
         minaBetyg.put("Matte 5", 'C'); // "Matte 5" kopplas till 'C'
         minaBetyg.put("Programmering <3", 'A');
 
+        System.out.println("Nycklarna:");
+        System.out.println(minaBetyg.keySet());
+
         System.out.println("Följande finns i hashmappen:");
-        for(String s : minaBetyg.keySet()){
-            System.out.println(s + " : " + minaBetyg.get(s));
+        for(String kurs : minaBetyg.keySet()){
+            if(kurs.startsWith("Prog")){
+                System.out.println(kurs + " : " + minaBetyg.get(kurs));
+            }
+            //System.out.println(kurs + " : " + minaBetyg.get(kurs));
         }
+        System.out.println("HELA HASHMAPPEN:");
+        System.out.println(minaBetyg);
 
     }
 

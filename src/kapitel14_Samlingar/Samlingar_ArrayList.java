@@ -46,8 +46,7 @@ public class Samlingar_ArrayList {
 
         System.out.println("Hur många strängar vill du spara i din dynamiska lista ?");
         Scanner scan = new Scanner(System.in);
-        String antalSomSträng = scan.nextLine();
-        int antalSträngar = Integer.valueOf(antalSomSträng);
+        int antalSträngar = Integer.valueOf(scan.nextLine());
 
         for(int i = 0; i < antalSträngar; i++){
             System.out.println("Vilket ord vill du lägga till?");
@@ -59,7 +58,17 @@ public class Samlingar_ArrayList {
         while("ja".equalsIgnoreCase(run)){
             System.out.println("Vill du byta plats på några strängar i listan?");
             run = scan.nextLine();
-            // TODO
+            System.out.println("Vilket index vill du byta plats på ? index från 0 till " + (strängarIEnLista.size() -1));
+            System.out.println(strängarIEnLista);
+            int indexPåSträngAttByta = Integer.valueOf(scan.nextLine());
+            System.out.println("På vilket index vill du lägga in ordet " + strängarIEnLista.get(indexPåSträngAttByta));
+            int nyttIndex = Integer.valueOf(scan.nextLine());
+            System.out.println("Byter plats...");
+            String ordAttFlytta = strängarIEnLista.remove(indexPåSträngAttByta);
+
+            strängarIEnLista.add(nyttIndex, ordAttFlytta);
+            System.out.println(strängarIEnLista);
+
 
         }
 
