@@ -24,10 +24,14 @@ public class Samlingar_Stack {
         System.out.println("Nuvarande översta värde i stacken: " + minStack.peek());
         minStack.push("Är i skolan");
         System.out.println("Nuvarande översta värde i stacken: " + minStack.peek());
+        System.out.println();
+        System.out.println(minStack);
         minStack.pop(); // pop tar bort översta värden från stacken
         System.out.println("Nuvarande översta värde i stacken: " + minStack.peek());
         minStack.pop();
         System.out.println("Nuvarande översta värde i stacken: " + minStack.peek());
+
+        System.out.println(minStack);
 
     }
 }
