@@ -1,3 +1,5 @@
+package Övrigt;
+
 import java.math.BigInteger;
 
 import static java.lang.Thread.sleep;
@@ -5,7 +7,18 @@ import static java.lang.Thread.sleep;
 public class CountDown {
 
     public static void main(String[] args) throws InterruptedException {
+
+        int a = 3;
+        for(int i = 5; i > 2; i--){
+            for(int j = 3; j <= 7; j += 2){
+                a+= i * j;
+            }
+        }
+        System.out.println(a);
+
+
         countDown(6, 2, 1000);
+
     }
 
     private static void countDown(long minuterKvar, int bas, int millis) throws InterruptedException {

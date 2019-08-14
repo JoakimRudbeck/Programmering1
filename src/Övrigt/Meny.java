@@ -1,3 +1,5 @@
+package Övrigt;
+
 import java.util.Scanner;
 
 public class Meny {
