@@ -2,11 +2,15 @@ package kapitel02_Variabler;
 
 public class Variabler_Deklarering_Tilldelning {
     public static void main(String[] args) {
-        // Deklarering:
-        // Skapar variabeln och reserverar så mycket plats
-        // i minnet som behövs för den datatypen
+        /*
+        Deklarering:
+        Skapar variabeln och reserverar så mycket plats
+        i minnet som behövs för den datatypen
+         */
         int mittHeltal; // Skapar 4 byte (32 bitar) i minnet.
-        // Tilldelning = ger en deklarerad variabel ett värde.
+        /*
+        Tilldelning = ger en deklarerad variabel ett värde.
+         */
         mittHeltal = 150234;
         mittHeltal = -23188;
         // En variabel kan ändras
