@@ -1,7 +1,5 @@
 package Övrigt;
 
-import java.math.BigInteger;
-
 import static java.lang.Thread.sleep;
 
 public class CountDown {
@@ -15,7 +13,6 @@ public class CountDown {
             }
         }
         System.out.println(a);
-
 
         countDown(6, 2, 1000);
 
@@ -45,6 +42,5 @@ public class CountDown {
         }
         System.out.println("### YOU HAVE REACHED THE FINAL COUNTDOWN ###");
     }
-
 
 }
