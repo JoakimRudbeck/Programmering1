@@ -44,14 +44,6 @@ public class Klass {
         System.out.println();
     }
 
-
-
-
-
-
-
-
-
     private static int af() {
         int a = (int) (Math.random()*10);
         int b = (int) (Math.random()*10);
