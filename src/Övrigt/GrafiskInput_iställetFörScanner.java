@@ -1,3 +1,5 @@
+package Övrigt;
+
 import javax.swing.*;
 
 public class GrafiskInput_iställetFörScanner {

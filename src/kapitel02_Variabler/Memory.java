@@ -2,7 +2,7 @@ package kapitel02_Variabler;
 
 import java.util.Random;
 
-public class IntegersAndBytes {
+public class Memory {
     private static final int MEMORY_SIZE = 100;
 
     public static void main(String[] args) {

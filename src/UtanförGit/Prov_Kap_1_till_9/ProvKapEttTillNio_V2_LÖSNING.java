@@ -1,4 +1,4 @@
-package Prov_Kap_1_till_9;
+package UtanförGit.Prov_Kap_1_till_9;
 
 import java.util.Scanner;
 
