@@ -4,6 +4,8 @@ public class Meny {
 
     // Ett program som körs om och om igen tills användaren skriver in ordet "SLUTA"
     public static void main(String[] args) {
+        int[] a = {1,2,3};
+        System.out.println(a[3]);
         Scanner scan = new Scanner(System.in);
         String input = "";
         while(!input.equals("SLUTA")){
