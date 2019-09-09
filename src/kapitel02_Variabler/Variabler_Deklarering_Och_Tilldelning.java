@@ -1,6 +1,6 @@
 package kapitel02_Variabler;
 
-public class Variabler_Deklarering_Tilldelning {
+public class Variabler_Deklarering_Och_Tilldelning {
     public static void main(String[] args) {
         /*
         Deklarering:

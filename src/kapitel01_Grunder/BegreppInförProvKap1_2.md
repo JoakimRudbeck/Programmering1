@@ -7,4 +7,4 @@
 ###     * Inmatning med klassen Scanner
 ###     * Typomvandlingar mellan datatyper (String till int, double to String osv...)
 ###     * Strängar och metoder för strängar (length(), charAt(...), indexOf(...), subString(...,...) osv...)
-###     * UNICODE / ASCII
+###     * UNICODE-tabell

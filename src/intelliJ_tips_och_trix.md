@@ -23,9 +23,7 @@ Alternativt: markera koden, högerklicka, refactor -> extract -> method
 
 
 
-
-
-Debugga:
+Debugging:
 1) Sätt en breakpoint till vänster om din kod
 2) Run -> Debug (shift + F9)
 3) 'Step over' m.h.a. den vinklade blåa pilen.
