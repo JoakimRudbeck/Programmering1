@@ -5,12 +5,16 @@ import java.util.Scanner;
 public class Övningar {
 
     public static void main(String[] args) {
+        System.out.println("Övningarna startar");
         övning2_1();
         övning2_2();
         övning2_3();
         övning2_4();
         övning2_5();
         övning2_6();
+        övning2_7();
+        övning2_8();
+        System.out.println("Övningarna slutar");
     }
 
     private static void övning2_1() {
@@ -63,7 +67,7 @@ public class Övningar {
     private static void övning2_5() {
         System.out.println("ÖVNING 2.5");
         Scanner minScanner = new Scanner(System.in);
-        System.out.println("Ange namn:");
+        System.out.println("Ange för- och efternamn:");
         String namn = minScanner.nextLine();
         char förstaInitialen = namn.charAt(0);          // Tar ut det första tecknet ur strängen
         int indexOfMellanslag = namn.indexOf(' ');     // Tar ut indexet för där mellanslaget är
@@ -75,12 +79,32 @@ public class Övningar {
     private static void övning2_6() {
         System.out.println("ÖVNING 2.6");
         Scanner minScanner = new Scanner(System.in);
-        System.out.println("Ange namn:");
+        System.out.println("Ange för- och efternamn:");
         String namn = minScanner.nextLine();
         int indexOfMellanslag = namn.indexOf(' ');
         String förnamn = namn.substring(0, indexOfMellanslag);          // skapar en delsträng från index 0 till mellanslaget
         String efternamn = namn.substring(indexOfMellanslag);           // Om inget slutindex anges så fås resten av strängen
         System.out.println("Förnamn: " + förnamn);
         System.out.println("Efternamn: " + efternamn);
+    }
+
+    private static void övning2_7() {
+        System.out.println("ÖVNING 2.7");
+        Scanner minScanner = new Scanner(System.in);
+        System.out.println("Tecken: ");
+        String indata = minScanner.nextLine();
+        char förstaTecknetIIndata = indata.charAt(0);
+        int tecknetsIntVärde = (int) förstaTecknetIIndata;
+        System.out.println("Tecknet " + förstaTecknetIIndata + " har teckenkoden " + tecknetsIntVärde);
+    }
+
+    private static void övning2_8() {
+        System.out.println("ÖVNING 2.8");
+        Scanner minScanner = new Scanner(System.in);
+        System.out.println("Ange stor bokstav: ");
+        String indata = minScanner.nextLine();
+        char tecknet = indata.charAt(0);
+        char tecknetSomLitet = (char)(tecknet + 32);    // Skillnaden mellan stora A (65) och lilla a (97) är 32 enligt UNICODE-tabellen sid 37 i boken.
+        System.out.println("Litet " + tecknet + " blir " + tecknetSomLitet);
     }
 }
