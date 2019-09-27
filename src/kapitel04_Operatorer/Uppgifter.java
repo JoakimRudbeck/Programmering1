@@ -5,13 +5,30 @@ public class Uppgifter {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        printFExempel();
-        övning4_1();
-        övning4_4();
+        uppgift4_2();
+        uppgift4_4();
     }
 
-    static void övning4_4() {
-        System.out.println("Skriv in ett tal, tack.");
+    private static void uppgift4_2() {
+        System.out.println("Uppgift 4.2");
+        System.out.println("Skriv in ett heltal");
+        int tal = scanner.nextInt();
+        int ursprungliga = tal;
+        tal++;
+        tal*=2;
+        tal-=6;
+        tal/=2;
+        tal+=3;
+        tal-= ursprungliga;
+        System.out.println(tal);
+        if(tal == 1){ // Överkurs men vi kommer gå igenom if-satser senare...
+            System.out.println("Det stämde att det blev ett till slut :)");
+        }
+    }
+
+
+    static void uppgift4_4() {
+        System.out.println("Skriv in ett fyrsiffrigt tal, tack.");
         int mittTal = scanner.nextInt();
         int mittTalJusterat = mittTal + 500;
         // lägger på 500 för att avrundningen ska bli rätt.
@@ -21,21 +38,7 @@ public class Uppgifter {
         System.out.printf("Talet %d avrundat blir %d", mittTal, mittTalAvrundat);
     }
 
-    static void printFExempel() {
-        float a = 3.1415927f;
-        int b = 5;
-        int c = 7;
-        // "vanliga sättet":
-        System.out.println("a är "+a+" och b är "+b+" och c är "+c+".");
-        // Samma sak men med print format:
-        System.out.printf("a är %.2f och b är %d och c är %d.", a,b,c);
-    }
 
-    static void övning4_1() {
-        System.out.println("Mata in antal månader");
-        int totMånader = scanner.nextInt();
-        int år = totMånader / 12;
-        int månader = totMånader % 12;
-        System.out.printf("År:%d, månader:%d", år, månader);
-    }
+
+
 }
