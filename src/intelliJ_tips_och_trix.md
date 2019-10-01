@@ -24,9 +24,9 @@ Alternativt: markera koden, högerklicka, refactor -> extract -> method
 
 
 Debugging:
-1) Sätt en breakpoint till vänster om din kod
-2) Run -> Debug (shift + F9)
-3) 'Step over' m.h.a. den vinklade blåa pilen.
+1) Sätt en breakpoint till vänster om din kod (röd ifylld punkt)
+2) Klicka på gröna triangeln till vänster om din main-metod. Välj Debug (shift + F9)
+3) Stega igenom en rad i koden genom att klicka på 'Step over' (den vinklade blåa pilen).
 
 Skapa ett test för din klass:
 ctrl + shift + t
