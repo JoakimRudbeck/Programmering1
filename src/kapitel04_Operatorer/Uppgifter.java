@@ -10,6 +10,7 @@ public class Uppgifter {
         uppgift4_5();
         uppgift4_6();
         uppgift4_7();
+        utmaning();
     }
 
     private static void uppgift4_2() {
@@ -82,5 +83,15 @@ public class Uppgifter {
         int sekunder = tidISek;
         System.out.printf("%d sekunder = %d timmar, %d minuter, %d sekunder", tidISekOriginal, timmar, minuter, sekunder);
     }
+    
+    private static void utmaning() {
+        char[] bokstäver = {'A', 'B', 'C'};
+        String[] strängar = {"ABCDEF", "GHIJKL", "MNOPQR"};
 
+        int a = (bokstäver[1] + bokstäver[2]) % strängar.length;
+        int b = strängar[1].substring(1, 4).length() - 2;
+        boolean santEllerFalskt = a <= b;
+
+        System.out.println(santEllerFalskt); // Vad skrivs ut och varför?
+    }
 }
